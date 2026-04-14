@@ -1,10 +1,10 @@
-# 🧠 DSA Practice in C++
+## 🧠 DSA Practice in C++
 
 A collection of DSA problems solved in C++ to improve problem-solving skills and build a strong foundation in DSA.
 
 ---
 
-## 🚀 About
+### 🚀 About
 
 - 💻 Language: C++
 - 📌 Platforms: LeetCode, Codeforces
@@ -12,7 +12,7 @@ A collection of DSA problems solved in C++ to improve problem-solving skills and
 
 ---
 
-## 📂 Topics Covered
+### 📂 Topics Covered
 
 - 🧩 Arrays
 - 🔤 Strings
@@ -26,6 +26,6 @@ A collection of DSA problems solved in C++ to improve problem-solving skills and
 
 ---
 
-## 🎯 Goal
+### 🎯 Goal
 
 To develop strong problem-solving skills and gain a deep understanding of core DSA.
