@@ -1,4 +1,5 @@
-//BY RECURSION
+// Problem: Sudoku Solver
+// Approach: Backtracking (Recursion)
 #include <iostream>
 #include <vector>
 #include<string>
