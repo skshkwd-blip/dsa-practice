@@ -1,3 +1,6 @@
+//Problem: Single number
+//Approach: bit manipulation (XOR)
+
 #include <iostream>
 #include <vector> // include vector header
 using namespace std;
